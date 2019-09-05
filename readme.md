@@ -1,7 +1,7 @@
 Client is in clinet.js
 and server is in server.js
 
-to deposit to the account, call clinet.js <account id> <how mush>
+to deposit to the account, call client.js <account id> <how mush>
 put a - infront of the amount to withdraw
 
 `docker run --rm --name bankserver bslcphbussiness/si-ex1-tcp-bank node server.js`
